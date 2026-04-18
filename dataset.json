@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "72 kg",
+      "goal": "Marathon race preparation with carbohydrate loading for maximum endurance performance",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan covers all three meals plus snacks for one full day",
+      "Total daily calories align with high-endurance athlete needs (approximately 3000-3500 kcal)",
+      "Carbohydrates comprise 60-65% of total calories to support marathon performance",
+      "Plan is presented in compact, concise format suitable for quick reference"
+    ],
+    "task_description": "Write a compact concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring maximum caloric intake and carbohydrate loading for peak performance"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "85 kg",
+      "goal": "Build muscle and strength for weightlifting competition",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan covers all meals for one full day with specific times",
+      "High protein intake (minimum 1.6-2.0g per kg bodyweight) distributed across meals",
+      "Pre and post-training meals strategically timed around weightlifting session",
+      "Compact format with practical, realistic food choices"
+    ],
+    "task_description": "Write a compact concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) emphasizing high protein intake and strategic meal timing around training sessions"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "71 kg",
+      "goal": "Maintain weight class (71 kg limit) while maximizing strength and endurance for boxing competition in 3 days",
+      "restrictions": "No dairy, no alcohol"
+    },
+    "solution_criteria": [
+      "Meal plan contains exactly 3 meals with caloric intake supporting controlled deficit (approximately 300-500 kcal below maintenance) while preserving muscle mass",
+      "Includes hydration strategy addressing water intake timing and electrolyte management for weight class compliance",
+      "All meals respect dairy-free and alcohol-free restrictions",
+      "Provides sufficient protein (1.6-2.0g per kg body weight) distributed across meals for recovery and performance"
+    ],
+    "task_description": "Write a compact concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport with strict weight class requirements (boxer or wrestler) balancing nutritional needs with controlled caloric deficit and hydration management"
+  }
+]
